@@ -11,6 +11,10 @@ Step:
 - cd /path/to/this/program
 - python ./monitor_win.py
 
+Result:
+
+![image](https://github.com/ZP-Guo/A_Simple_Monitor_on_Win/blob/master/result.png)
+
 TODO: 
 - Pack it to an exe and it can show at top of windows always.
 - Design an UI and we can interact with it.
